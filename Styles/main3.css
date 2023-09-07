@@ -21,7 +21,7 @@ header h1 {
             float: left;
         }
         .shadow {
-            text-shadow: 2px 2px 2px rgb(red, green, blue);
+            text-shadow: 2px 2px 2px rgb(red, green, blue)
         }
         main {
             clear:left;
