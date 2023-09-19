@@ -11,7 +11,7 @@ body {
     padding: 15px 1.5em;
     border: 1px soild red;
     border-radius: 25px;
-    box-shadow 5px 5px 0 0;
+    box-shadow: 5px 5px 0 0;
 }
 a:focus, a:hover{
     font-style: italic;
@@ -44,7 +44,7 @@ header h1 {
             padding: 1em;
             font-size: 105%;
         }
-        main nav{
+        main nav {
            margin: 1.5em 2em 2em 1.5em;
            border: 5px dashed;
            border-radius: 20px;
