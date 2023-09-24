@@ -1,6 +1,6 @@
 Html {
     background-image:linear-gradient(to bottom,white 0%,purple 100%);
-   margin: 15px;
+   margin: 15px auto;
 }
 
 body { 
