@@ -1,6 +1,5 @@
 Html {
     background-image:linear-gradient(to bottom, white 0%, #facd8a 100%);
-    margin-left: 2em ;
 }
 body { 
     width: 1000px;
@@ -29,6 +28,7 @@ header h1 {
         }
         img {
             float: left;
+            margin-left: 2em;
         }
         .shadow {
             text-shadow: 2px 2px 2px rgb(128, 0, 0);
