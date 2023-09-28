@@ -44,4 +44,9 @@ header h1 {
         column-gap: 2em;
         margin: 2em;
     }
+    article image{
+        float: left;
+        margin-left: 1em;
+        margin-bottom: 1em;
+    }
          
