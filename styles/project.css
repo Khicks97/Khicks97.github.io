@@ -36,6 +36,7 @@ header h1 {
             text-shadow: 2px 2px 2px rgb(128, 0, 0);
         }
         article{
+        width: 70%;
         clear: both;
         float: left;
         column-count: 2;
