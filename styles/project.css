@@ -59,7 +59,7 @@ header h1 {
             width: 20%;
             float: right;
             background-color: #ffebc6;
-            padding: 2em;
+            padding: .1em 1em 1em;
          }
          footer{
             clear: both;
