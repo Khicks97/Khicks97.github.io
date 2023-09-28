@@ -53,5 +53,10 @@ header h1 {
             font-size: 3em;
             font-weight: bold;
             font-style:italic;
-            
+            color: light green;
+         }
+         aside{
+            width: 20%;
+            float: right;
+            background-color: #ffebc6;
          }
