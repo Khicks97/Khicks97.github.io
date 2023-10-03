@@ -28,11 +28,11 @@ header h2{
     color:darkorchid;
     text-indent:30px;
     border-bottom: 2px solid maroon;
-    display:block;
 }
 img{
     float:left;
     margin-left:2em;
+    display:block;
 }
 .shadow{
     text-shadow:2px 2px 2px rgb(128, 0, 0);
