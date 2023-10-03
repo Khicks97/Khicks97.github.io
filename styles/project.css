@@ -27,11 +27,11 @@ header h2{
     font-size:130%;
     color:darkorchid;
     text-indent:30px;
-    border-bottom: 2px solid maroon;
 }
 img{
     float:left;
     margin-left:3em;
+    border-bottom: 2px solid maroon;
 }
 .shadow{
     text-shadow:2px 2px 2px rgb(128, 0, 0);
