@@ -28,7 +28,7 @@ header h1 {
         }
         img {
             float: left;
-            margin-left: 3em;
+            margin-left: 1em;
         }
         .shadow {
             text-shadow: 2px 2px 2px rgb(128, 0, 0);
