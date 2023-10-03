@@ -28,7 +28,7 @@ header h2{
     color:darkorchid;
     text-indent:30px;
     border-bottom: 2px solid maroon;
-    display: block;
+    display:block;
 }
 img{
     float:left;
