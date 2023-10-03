@@ -1,7 +1,7 @@
-Html {
+Html{
     background-image:linear-gradient(left, white 0%, #facd8a 100%);
 }
-body { 
+body{ 
     width:90%;
     background-color:white;
     font-family:Arial,Helvetica,sans-serif;
@@ -18,22 +18,22 @@ a:focus, a:hover{
     font-style:italic;
     color:blueviolet
 }
-header h1 {
+header h1{
     font-size:175%;
     color:blue;
     text-indent:30px;
 }
-header h2 {
+header h2{
     font-size:130%;
     color:darkorchid;
     text-indent:30px;
     border-bottom: 2px solid maroon;
 }
-img {
+img{
     float:left;
     margin-left:3em;
 }
-.shadow {
+.shadow{
     text-shadow:2px 2px 2px rgb(128, 0, 0);
 }
 article{
