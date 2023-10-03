@@ -31,8 +31,10 @@ header h2{
 }
 img{
     float:left;
-    margin-left:2em .5em;
+    margin-left:2em;
 }
+.imagestyle1 { position: relative; top: -3px; }
+
 .shadow{
     text-shadow:2px 2px 2px rgb(128, 0, 0);
 }
