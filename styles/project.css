@@ -27,8 +27,8 @@ header h2{
     font-size:130%;
     color:darkorchid;
     text-indent:30px;
+    padding-bottom:5px;
     border-bottom: 2px solid maroon;
-   padding-bottom:5px;
 }
 img{
     float:left;
