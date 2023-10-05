@@ -27,7 +27,7 @@ header h2{
     font-size:130%;
     color:darkorchid;
     text-indent:30px;
-    padding-bottom:4px;
+    display: inline
     border-bottom:2px solid maroon;
 }
 img{
