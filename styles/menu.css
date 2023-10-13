@@ -26,6 +26,10 @@ aside h1{
     font-weight: bold;}
 aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type:square;}
-h3{
+aside h3{
+    text-align: left;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
     border: none;
     border-bottom: 1px dotted black;}
