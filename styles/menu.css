@@ -1,19 +1,2 @@
-head {
-    display: none;
-}
-body {
-    display: block;
-    margin: 8px;
-}
-nav {
-    display: block;
-}
-article {
-    clear: both;
-    display: block;
-}
-aside {
-    display: block;
-    list-style-type: upper-roman;
-}
+
 
