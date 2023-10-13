@@ -23,13 +23,15 @@ article h2{
     text-align: left;
     display: block;
     font-size: 1.5em;
-    font-weight: bold;}
+    font-weight: bold;
+    border-top: dotted black;
+    height:3px;
+    width: 10%;}
 article h3{
     text-align: left;
     display: block;
     font-size: 1.5em;
     font-weight: bold;
-    border: none;
-    border-bottom: 1px dotted black;}
+    border: none;}
 aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type:square;}
