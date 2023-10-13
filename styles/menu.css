@@ -16,11 +16,7 @@
 h1{
     display:block;
     margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
-aside ol {
-    list-style-type: upper-roman;
-}
+    margin-inline-end: 0px;}
+aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type:square;}
 
