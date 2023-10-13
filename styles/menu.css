@@ -15,7 +15,9 @@
 article h1{
     text-align:left;
     display:block;
-    font-weight:bold;}
+    font-weight:bold;
+    border:none;
+    font-size:1.5em;}
 article h2{
     text-align:left;
     display:block;
