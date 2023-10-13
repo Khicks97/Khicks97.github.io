@@ -12,3 +12,8 @@ article {
     clear: both;
     display: block;
 }
+aside {
+    display: block;
+    list-style-type: upper-roman;
+}
+
