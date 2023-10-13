@@ -18,23 +18,23 @@
 }
 #nav_menu ul li a.lastitem{border-right: none;}
 #nav_menu ul li a.current{color:yellow}
-aside h1{
+article h1{
     margin-top: 0;
     text-align: left;
     display: block;
     font-size: 1.5em;
     font-weight: bold;}
-aside h2{
+article h2{
     text-align: left;
     display: block;
     font-size: 1.5em;
     font-weight: bold;}
-aside ol {list-style-type: upper-roman;}
-aside ul {list-style-type:square;}
-aside h3{
+article h3{
     text-align: left;
     display: block;
     font-size: 1.5em;
     font-weight: bold;
     border: none;
     border-bottom: 1px dotted black;}
+aside ol {list-style-type: upper-roman;}
+aside ul {list-style-type:square;}
