@@ -9,8 +9,7 @@
     background-color:blue;
     color:white;
     font-weight:bold;
-    border-right:2px solid white;
-}
+    border-right:2px solid white;}
 #nav_menu ul li a.lastitem{border-right: none;}
 #nav_menu ul li a.current{color:yellow}
 article h1{
@@ -18,7 +17,7 @@ article h1{
     display:block;
     font-size:1.5em;
     font-weight:bold;
-    padding:60px;
+    padding:50px;
     margin:0;}
 article h2{
     text-align:left;
