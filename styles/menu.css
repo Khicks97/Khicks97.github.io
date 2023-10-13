@@ -24,6 +24,11 @@ aside h1{
     display: block;
     font-size: 1.5em;
     font-weight: bold;}
+aside h2{
+    text-align: left;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;}
 aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type:square;}
 aside h3{
