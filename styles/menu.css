@@ -25,4 +25,6 @@ article h2{
     font-weight:bold;
     border:none}
 aside ol {list-style-type:upper-roman;}
-aside ul {list-style-type:square;}
+aside ul {
+    list-style-type: square;
+}
