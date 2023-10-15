@@ -21,6 +21,10 @@ nav {
     border-right:2px solid white;}
 #nav_menu ul li a.lastitem{border-right: none;}
 #nav_menu ul li a.current{color:yellow}
+img {
+    float: left;
+    padding: 1em 1em 0 0;
+}
 article {
     float: left;
     width: 75%;
