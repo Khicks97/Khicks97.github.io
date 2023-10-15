@@ -26,8 +26,8 @@ article h2{
     font-weight:bold;
     border:none}
 #article_discussion{
-    border-style top:dotted;
-    width: 30px;
-}
+    border:none;
+    border-top:1px dotted;
+    width:30px;}
 aside ul {list-style-type:square;}
 aside ol {list-style-type:upper-roman;}
