@@ -35,9 +35,7 @@ article {
     display: block;
 }
 article p::first-letter{
-    font-size:3em;
-    font-weight:lighter;
-    font-style:italic;
+    font: 2em italic bold;
     color:black;
 }
 body {
