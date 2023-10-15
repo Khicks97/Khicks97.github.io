@@ -29,5 +29,5 @@ article h2{
     border:none;
     border-top:1px dotted;
     width:30px;}
-aside ol {list-style-type:square;}
+aside ul {list-style-type:square;}
 aside ol {list-style-type:upper-roman;}
