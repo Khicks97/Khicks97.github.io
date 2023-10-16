@@ -27,7 +27,7 @@ img {
     width:100px;
     height: 100px;
 }
-#h2 {color:blue}
+#h2 {font:blue}
 article {
     float: left;
     width: 75%;
