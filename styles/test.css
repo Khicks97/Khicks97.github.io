@@ -28,12 +28,13 @@ img {
     aspect-ratio:auto 100 / 100;
     height: 100px;
 }
+#h2 {color:blue}
 article {
     float: left;
     width: 75%;
     column-count: 3;
     column-rule: 5px dotted blue;
-    column-gap: 3em;
+    column-gap: 2em;
     margin-left: 2em;
     display: block;
 }
