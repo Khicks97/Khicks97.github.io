@@ -74,5 +74,5 @@ footer {
     clear: both;
     border-top: 3px solid blue;
     display: block;
-    position: center;
+    text-align: center;
 }
