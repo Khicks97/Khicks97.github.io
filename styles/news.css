@@ -72,4 +72,5 @@ footer {
     clear: both;
     border-top: 3px solid blue;
     display:block;
+    text-align: center;
 }
