@@ -73,7 +73,7 @@ aside ol{list-style-type:upper-roman;}
 footer {
     clear: both;
     border-top: 3px solid blue;
-    display: block;
+    display:block;
     text-align: center;
     font-size:80%;
 }
