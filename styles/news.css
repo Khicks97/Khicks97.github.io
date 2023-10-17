@@ -22,7 +22,6 @@ nav {
 #nav_menu ul li a.lastitem{border-right: none;}
 #nav_menu ul li a.current{color:yellow}
 h1{position:top;
-    padding-top: 0em;
     column-span: all;
     color:blue}
 img {
