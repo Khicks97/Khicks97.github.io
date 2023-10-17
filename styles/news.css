@@ -69,7 +69,7 @@ aside {
 aside ul {list-style-type:square;}
 aside ol{list-style-type:upper-roman;}
 footer {
-    clear: left;       
+    clear: both;       
     border-top: 3px solid blue;
     display:block;
     text-align: center;
