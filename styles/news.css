@@ -68,7 +68,8 @@ aside {
 }
 aside ul {list-style-type:square;}
 aside ol{list-style-type:upper-roman;}
-footer {       
+footer {
+    clear: left;       
     border-top: 3px solid blue;
     display:block;
     text-align: center;
