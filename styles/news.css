@@ -38,7 +38,6 @@ article {
     column-rule: 5px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
-    margin-top: 3em;
     display: block;
 }
 article p::first-letter{
