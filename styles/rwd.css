@@ -1,4 +1,4 @@
-html{ 
+html, 
  body {
     margin: 0;
     height: 100%;
@@ -86,4 +86,3 @@ html{
     margin-top: 0px;
     transform: rotate(-405deg);
     }
-}
