@@ -86,3 +86,13 @@ html,
     margin-top: 0px;
     transform: rotate(-405deg);
     }
+    article{
+        padding: 0 1em;
+        display: block;}
+    aside {
+        display: block;
+        }
+    footer {
+        clear: both;
+        border-top: 1px solid #f46b45;}
+        
