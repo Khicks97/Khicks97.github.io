@@ -96,4 +96,10 @@ html,
         clear: both;
         border-top: 1px solid #f46b45;
         display: block;}
+    article img {
+            margin: auto;
+            display: block;
+            width: 100%;
+            max-width: 768px;
+        }
         
