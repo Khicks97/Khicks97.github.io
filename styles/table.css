@@ -49,7 +49,10 @@ table.second th, table.second td {
         vertical-align: middle;
         border: 2px solid purple;
         background-color: salmon;}
-
+table.second th, table.second td {
+            padding: 0.7em;
+            vertical-align: middle;
+            border: 2px solid purple;}
 table.third {
                 border-collapse: collapse;
             }
