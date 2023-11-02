@@ -21,9 +21,10 @@ html,
     height: 3em;
     padding: 1em;
     }
-    .menu> ul{
+    a:-webkit-any-link {
         color: white;
-    }
+        cursor: pointer;
+        text-decoration: none;}
     .menu {
     display: flex;
     flex-direction: row;
