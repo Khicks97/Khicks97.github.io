@@ -24,7 +24,7 @@ html,
     a:-webkit-any-link {
         color: white;
         cursor: pointer;
-        text-decoration: none;}
+        text-decoration: underline;}
     .menu {
     display: flex;
     flex-direction: row;
