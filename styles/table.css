@@ -26,6 +26,10 @@ table.first th, table.first td {
 table.first tr:nth-child(odd) {
         background-color: lightblue;
 }
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
 table {
         display: table;
         border-collapse: separate;
@@ -37,6 +41,15 @@ table.second {
             border-collapse: collapse;
             border: 2px solid purple;
             caption-side: bottom;}
+caption {
+    display: table-caption;
+    text-align: -webkit-center;}
+table.second th, table.second td {
+        padding: 0.7em;
+        vertical-align: middle;
+        border: 2px solid purple;
+        background-color: salmon;}
+
 table.third {
                 border-collapse: collapse;
             }
