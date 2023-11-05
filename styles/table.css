@@ -44,8 +44,8 @@ table.second {
 caption {
     display: table-caption;
     text-align: -webkit-center;}
-table.second tr:first-child{
-    background:salmon;}
+    table.second th {
+        background-color: salmon;}
 table.second th, table.second td {
             padding: 0.7em;
             vertical-align: middle;
