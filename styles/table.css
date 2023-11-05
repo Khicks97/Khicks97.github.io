@@ -56,3 +56,7 @@ table.third thead tr:first-child {
                 border-bottom: 2px solid orangered;
                 padding: 0.7em;
         vertical-align: top;}
+thead {
+            display: table-header-group;
+            vertical-align: middle;
+            border-color: inherit;}
