@@ -22,9 +22,11 @@ html,
     padding: 1em;
     }
     a:-webkit-any-link {
+        align-self: hover;
+        align-self: current;
         color: white;
         cursor: pointer;
-        text-decoration: underline;}
+        text-decoration:underline;}
     .menu {
     display: flex;
     flex-direction: row;
@@ -90,6 +92,8 @@ html,
     article{
         padding: 0 1em;
         display: block;}
+    h2{font: size 1.25em;}
+    article p{font: size 1em;}
     aside {
         display: block;
         }
