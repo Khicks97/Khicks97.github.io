@@ -2,61 +2,45 @@ html, body {
     margin: 1em;
     height: 100%;
     font-size: 100%;
-}
-* {
+    }
+    * {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-}
-head {
-    display: none;
-}
-table.first {
-    border-collapse: separate;
-    border: 2px solid black;
-   }
-tr {
-    display: table-row;
-    vertical-align: inherit;
-    border-color: inherit;}
-tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit;}
-table.first th, table.first td {
-    border: 2px solid blue;}
-table.first tr:nth-child(odd) {
-        background-color: lightblue;
-}
-td {
-    display: table-cell;
-    vertical-align: inherit;
-}
-table {
-        display: table;
+    }
+    /*-----------------------------------------------------------*/
+    table.first {
         border-collapse: separate;
-        box-sizing: border-box;
-        text-indent: initial;
-        border-spacing: 2px;
-        border-color: gray;}
-caption {
-    display: table-caption;
-    text-align: -webkit-center;}
+        border: 2px solid black;    
+    }
+    table.first th, table.first td {
+        border: 2px solid blue;
+    }
+    table.first tr:nth-child(odd) {
+        background-color: lightblue;
+    }
+    /*-----------------------------------------------------------*/
+    table.second {    
+        border-collapse: collapse; 
+        border: 2px solid purple;   
+        caption-side: bottom;
+    }
     table.second th {
-        background-color: salmon;}
-table.second th, table.second td {
-            padding: 0.7em;
-            vertical-align: middle;
-            border: 2px solid purple;
-        background-color: white;}
-table.third {
-                border-collapse: collapse;
-                background-color: lightgreen;
-            }
-table.third thead tr:first-child {
-                border-top: 2px solid orangered;
-                border-bottom: 2px solid orangered;
-                padding: 0.7em;
-        vertical-align: top;}
-thead {
-            display: table-header-group;
-            vertical-align: middle;
-            border-color: inherit;}
+        background-color: salmon;
+    }
+    table.second th, table.second td {
+        padding: 0.7em;  
+        vertical-align: middle;
+        border: 2px solid purple;
+    }
+    table.second thead tr:first-child{     
+        border-bottom: 2px solid purple;
+    }
+    @media only screen and (max-width: 425px) {
+        th, td {
+            display: block;
+        }
+        thead, td.number {
+            display: none;
+            padding: 0;
+        }    
+    }
+    
