@@ -150,5 +150,5 @@ html,
     .menu > li:not(:last-child) {
         border-bottom: 1px solid #444;
     }
-    @media screen {max-width:700px;}
+    @media screen {max-width:700px;}{...}
 
