@@ -45,9 +45,10 @@ html, body {
         border-bottom: 2px solid orangered;
         background-color: aquamarine;
     }
-    table.third thead tr:nth-child(2), table.third tr:last-child {
+    table.third thead tr:nth-child(2){
         border-bottom: 2px solid orangered;
         background-color: aquamarine;}
+    table.third tr:last-child { border-bottom: 2px solid orangered;}
     tr {
             display: table-row;
             vertical-align: inherit;
