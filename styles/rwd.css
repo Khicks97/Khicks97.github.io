@@ -39,7 +39,7 @@ html,
     margin: 0 1rem;
     overflow: hidden;
     }
-    
+    @media only screen and (max-width: 700px) {
     .menu-button-container {
     display: none;
     height: 100%;
@@ -150,12 +150,6 @@ html,
     .menu > li:not(:last-child) {
         border-bottom: 1px solid #444;
     }
-    @media only screen and (max-width: 700px) {
-        th, td {
-            display: block;
-        } thead, td.number {
-            display: none;
-            padding: 0;
-        }    
-    }
+}
+    
     
