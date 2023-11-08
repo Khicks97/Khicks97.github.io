@@ -128,17 +128,16 @@ html,
         background-color: #222;
     }
     .menu > li:not(:last-child) {border-bottom: 1px solid #444;}
-        input[type="checkbox" i] {
-            background-color: initial;
-            cursor: default;
-            appearance: auto;
-            box-sizing: border-box;
-            margin: 3px 3px 3px 4px;
-            padding: initial;
-            border: initial;
     }
-}
-    article{
+input[type="checkbox" i] {
+    background-color: initial;
+    cursor: default;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;}   
+article{
         padding: 0 1em;
         display: block;}
     h2{
