@@ -139,11 +139,11 @@ article{
         display: block;
         }
     footer {
-        clear: both;
-        border-top: 2px solid #f46b45;
-        display: block;
-        text-align: center;
-        font-size: .8em;}
+        clear:both;
+        border-top:2px solid #f46b45;
+        display:block;
+        text-align:center;
+        font-size:.8em;}
     article img {
             margin: auto;
             display: block;
