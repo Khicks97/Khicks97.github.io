@@ -44,7 +44,7 @@ table.second thead tr:first-child{
     }
 table.third {
         border-collapse: collapse;
-        padding: 0.7em;
+        padding: 5em;
         vertical-align: top;
         border-spacing: 5px;
     }
