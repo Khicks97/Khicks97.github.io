@@ -51,11 +51,11 @@ table.third {
 table.third thead tr:first-child {
         border-top: 2px solid orangered;
         border-bottom: 2px solid orangered;
-        background-color: aquamarine;
+        background-color: lightgreen;
     }
 table.third thead tr:nth-child(2){
         border-bottom: 2px solid orangered;
-        background-color: aquamarine;
+        background-color:lightgreen;
         padding-top:5em;
         padding-bottom:5em ;}
 table.third tr:last-child { border-bottom: 2px solid orangered;}
