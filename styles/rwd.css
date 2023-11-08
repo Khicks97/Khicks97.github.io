@@ -129,6 +129,9 @@ html,
     }
     .menu > li:not(:last-child) {border-bottom: 1px solid #444;}
     }
+    #menu-toggle {
+        display: none;
+    }
 input[type="checkbox" i] {
     background-color: initial;
     cursor: default;
