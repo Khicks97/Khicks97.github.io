@@ -48,7 +48,7 @@ table.second thead tr:first-child{
         }
         thead, td.number {
             display: none;
-            padding: 0;
+            padding: 0;}
             
 table.third {
         border-collapse: collapse;
