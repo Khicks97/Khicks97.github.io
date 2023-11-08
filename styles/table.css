@@ -42,6 +42,14 @@ table.second th, table.second td {
 table.second thead tr:first-child{     
         border-bottom: 2px solid purple;
     }
+    @media only screen and (max-width: 425px) {
+        th, td {
+            display: block;
+        }
+        thead, td.number {
+            display: none;
+            padding: 0;
+            }    
 table.third {
         border-collapse: collapse;
         padding-top:5em;
@@ -64,15 +72,4 @@ table.third tr:last-child { border-bottom: 2px solid orangered;}
             vertical-align: inherit;
             border-color: inherit;
             padding-top:5em;
-        padding-bottom:5em ;
-        }
- @media only screen and (max-width: 425px) {
-        th, td {
-            display: block;
-        }
-        thead, td.number {
-            display: none;
-            padding: 0;
-        }    
-    }
-    
+        padding-bottom:5em;}
