@@ -127,8 +127,7 @@ html,
         color: white;
         background-color: #222;
     }
-    .menu > li:not(:last-child) {
-    border-bottom: 1px solid #444;
+    .menu > li:not(:last-child) {border-bottom: 1px solid #444;}
         input[type="checkbox" i] {
             background-color: initial;
             cursor: default;
@@ -164,7 +163,4 @@ html,
             margin: auto;
             display: block;
             width: 100%;
-            max-width: 760px;
-        }
-    
-    
+            max-width: 760px;}
