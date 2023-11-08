@@ -39,6 +39,9 @@ html,
     margin: 0 1rem;
     overflow: hidden;
     }
+    #menu-toggle {
+        display: none;
+        visibility: hidden}
     @media only screen and (max-width: 700px) {
     .menu-button-container {
     display: none;
@@ -48,10 +51,6 @@ html,
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    }
-    #menu-toggle {
-    display: none;
-    visibility: hidden
     }
     .menu-button,
     .menu-button::before,
