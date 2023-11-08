@@ -105,6 +105,7 @@ html,
         justify-content: center;
         align-items: center;
     }
+    #menu-toggle {display: none;}
     #menu-toggle ~ .menu li {
         height: 0;
         margin: 0;
@@ -128,9 +129,6 @@ html,
         background-color: #222;
     }
     .menu > li:not(:last-child) {border-bottom: 1px solid #444;}
-    }
-    #menu-toggle {
-        display: none;
     }
 input[type="checkbox" i] {
     background-color: initial;
