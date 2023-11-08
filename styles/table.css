@@ -55,12 +55,16 @@ table.third thead tr:first-child {
     }
 table.third thead tr:nth-child(2){
         border-bottom: 2px solid orangered;
-        background-color: aquamarine;}
+        background-color: aquamarine;
+        padding-top: 5em;
+        padding-bottom:5em ;}
 table.third tr:last-child { border-bottom: 2px solid orangered;}
     tr {
             display: table-row;
             vertical-align: inherit;
             border-color: inherit;
+            padding-top: 5em;
+        padding-bottom:5em ;
         }
  @media only screen and (max-width: 425px) {
         th, td {
