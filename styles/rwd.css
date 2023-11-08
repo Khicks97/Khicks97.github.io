@@ -51,6 +51,7 @@ html,
     }
     #menu-toggle {
     display: none;
+    visibility: hidden
     }
     .menu-button,
     .menu-button::before,
