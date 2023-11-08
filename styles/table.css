@@ -47,8 +47,7 @@ table.third {
         padding-top:5em;
         padding-bottom:5em ;
         vertical-align: top;
-        border-spacing:5px;
-        letter-spacing: 4px;}
+        border-spacing: 30px;}
 table.third thead tr:first-child {
         border-top: 2px solid orangered;
         border-bottom: 2px solid orangered;
