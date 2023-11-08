@@ -89,6 +89,7 @@ html,
     margin-top: 0px;
     transform: rotate(-405deg);
     }
+}
     article{
         padding: 0 1em;
         display: block;}
@@ -150,6 +151,5 @@ html,
     .menu > li:not(:last-child) {
         border-bottom: 1px solid #444;
     }
-}
     
     
