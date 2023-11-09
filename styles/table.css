@@ -55,11 +55,7 @@ table.third thead tr:first-child {
 table.third thead tr:nth-child(2){
         border-bottom: 2px solid orangered;
         background-color:lightgreen;}
-table.third tr:last-child { border-bottom: 2px solid orangered;}
-    tr {
-            display: table-row;
-            vertical-align: inherit;
-            border-color: inherit;}
+
 @media only screen and (max-width: 425px) {
         th, td {
             display: block;
