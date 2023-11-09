@@ -122,6 +122,12 @@ html,
         background-color: #222;
     }
     .menu > li:not(:last-child) {border-bottom: 1px solid #444;}
+    footer {
+        clear:both;
+        border-top:2px solid #f46b45;
+        display:block;
+        text-align:center;
+        font-size:.8em;}
     }
 article{
         padding: 0 1em;
@@ -138,12 +144,6 @@ article{
     aside {
         display: block;
         }
-    footer {
-        clear:both;
-        border-top:2px solid #f46b45;
-        display:block;
-        text-align:center;
-        font-size:.8em;}
     article img {
             margin: auto;
             display: block;
