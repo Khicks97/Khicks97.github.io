@@ -60,7 +60,7 @@ table.third tr:last-child { border-bottom: 2px solid orangered;}
             display: table-row;
             vertical-align: inherit;
             border-color: inherit;}
-    @media only screen and (max-width: 425px) {
+@media only screen and (max-width: 425px) {
         th, td {
             display: block;
         }
