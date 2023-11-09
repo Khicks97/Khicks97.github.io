@@ -44,8 +44,7 @@ table.second thead tr:first-child{
     }           
 table.third {
         border-collapse: collapse;
-        padding-top:15px;
-        padding-bottom:15px;
+        border: 2px;
         vertical-align: top;}
 table.third thead tr:first-child {
         border-top: 2px solid orangered;
