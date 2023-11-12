@@ -22,11 +22,6 @@ html, body {
     height: 3em;
     padding: 1em;
     }
-    a:-webkit-any-link {
-        color: white;
-        cursor: pointer;
-        text-decoration: none;
-    }
     section a {
         text-decoration: none;
         color: white;
@@ -167,6 +162,7 @@ html, body {
         }
         ul {
             list-style-type: disc;
+            color: white;
         }
         .menu > li {
             display: flex;
