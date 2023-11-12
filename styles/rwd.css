@@ -151,14 +151,10 @@ html, body {
             padding: 0.5em;
             transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
         }
-        
+    
         }
         section a {
             text-decoration: none;
-            color: white;
-        }
-        ul {
-            list-style-type: disc;
             color: white;
         }
         .menu > li {
