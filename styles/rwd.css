@@ -26,10 +26,6 @@ html, body {
         text-decoration: none;
         color: white;
     }
-    ul {
-        list-style-type: disc;
-        color: white;
-    }
     .menu {
     display: flex;
     flex-direction: row;
