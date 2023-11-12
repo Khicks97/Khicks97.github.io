@@ -22,7 +22,18 @@ html, body {
     height: 3em;
     padding: 1em;
     }
-    
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    section a {
+        text-decoration: none;
+        color: white;
+    }
+    ul {
+        list-style-type: disc;
+    }
     .menu {
     display: flex;
     flex-direction: row;
