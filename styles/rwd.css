@@ -23,7 +23,7 @@ html, body {
     padding: 1em;
     }
     a:-webkit-any-link {
-        color: -webkit-link;
+        color: white;
         cursor: pointer;
         text-decoration: underline;
     }
