@@ -33,6 +33,7 @@ html, body {
     }
     ul {
         list-style-type: disc;
+        color: white;
     }
     .menu {
     display: flex;
