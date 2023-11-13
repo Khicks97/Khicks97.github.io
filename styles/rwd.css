@@ -30,7 +30,7 @@ html, body {
     padding: 0;
     color:white;
     }
-    .scrolling .button_container span { color: white;} 
+    .menu> ul{color:white;}
     .menu > li {
     margin: 0 1rem;
     overflow: hidden;
