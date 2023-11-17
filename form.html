@@ -8,23 +8,23 @@
     <link rel="stylesheet" href="styles/form.css">
 </head>
 <body>
-    <form action="register_account.html" method="post"
+<form action="register_account.html" method="post"
       id="registration_form">
-    <fieldset>
+<fieldset>
         <legend>Registration Information</legend>
         <label for="email">E-Mail:</label>
         <input type="email" name="email" id="email"
             autofocus required autocomplete="on"><br>
-        <label for="password">Password:</label>
-        <input type="password" name="password" id="password" required
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password" required
             placeholder="At least 6 letters or numbers" 
             pattern="[a-zA-Z0-9]{6,}"
             title="Must be at least 6 alphanumeric characters">
-        <br>
+ <br>
         <label for="verify">Verify Password:</label>
         <input type="password" name="verify"
             id="verify" required><br>
-    </fieldset>
+ </fieldset>
     <fieldset>
         <legend>Member Information</legend>
         <label for="first_name">First Name:</label>
@@ -32,11 +32,11 @@
             required autocomplete="on"><br>
         
         <label for="state">State:</label>
-        <input type="text" name="state" id="state" required 
+<input type="text" name="state" id="state" required 
             maxlength="2" 
             placeholder="2-character code"
             autocomplete="on"><br>
-        <label for="zip">ZIP Code:</label>
+ <label for="zip">ZIP Code:</label>
         <input type="text" name="zip" id="zip" required
             placeholder="5 or 9 digits" 
             pattern="^\d{5}(-\d{4})?$"
@@ -48,7 +48,7 @@
             pattern="\d{3}[\-]\d{3}[\-]\d{4}" 
             title="Must be 999-999-999 format"
             autocomplete="on"><br>
-    </fieldset>
+         </fieldset>
     <fieldset>
         <legend>Membership Information</legend>
         <label for="membership_type">Membership Type:</label>
@@ -62,7 +62,7 @@
         <label for="tickets">Tickets for Guests:</label>
         <input type="number" name="tickets" id="tickets"
             value="2" min="1" max="4" placeholder="from 1 to 4"><br>
-    </fieldset>    
+     </fieldset>    
     <fieldset>
         <legend>How Did You Hear About Us?</legend>
         <input type="checkbox" name="search" id="search" value="search engine">
@@ -85,5 +85,5 @@
         <input type="reset" id="reset" value="Reset Fields"><br>
     </fieldset>
     </form>
-</body>
+    </body>
 </html>
