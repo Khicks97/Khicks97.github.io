@@ -1,6 +1,6 @@
-let total = 0;
+let total = 0; /*let and var are very similar*/ 
 
-const score1 = parseInt(prompt("Enter test score"));
+const score1 = parseInt(prompt("Enter test score")); /*prompt is dialog box*/ 
 total += score1;        
 
 const score2 = parseInt(prompt("Enter test score"));
